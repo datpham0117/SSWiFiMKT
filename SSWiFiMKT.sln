@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SSWiFiMKT", "SSWiFiMKT.csproj", "{F10DCB18-50A5-4B73-A54A-18CC990E3184}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F10DCB18-50A5-4B73-A54A-18CC990E3184}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F10DCB18-50A5-4B73-A54A-18CC990E3184}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F10DCB18-50A5-4B73-A54A-18CC990E3184}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F10DCB18-50A5-4B73-A54A-18CC990E3184}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA5CB322-526B-43D0-89A7-37B96F86D5B8}
+	EndGlobalSection
+EndGlobal
